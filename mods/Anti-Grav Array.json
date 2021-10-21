@@ -1,0 +1,9 @@
+{
+   "name": "Anti-Grav Array",
+   "type": "Robotic",
+   "polarity": "Penjaga",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "3",
+   "baseCapacityCost": "4"
+}

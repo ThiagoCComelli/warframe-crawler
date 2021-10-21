@@ -1,0 +1,9 @@
+{
+   "name": "Energy Inversion",
+   "type": "Archwing",
+   "polarity": "Vazarin",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "3",
+   "baseCapacityCost": "2"
+}

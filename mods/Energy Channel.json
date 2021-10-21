@@ -1,0 +1,9 @@
+{
+   "name": "Energy Channel",
+   "type": "Melee",
+   "polarity": "Madurai",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "5",
+   "baseCapacityCost": "4"
+}

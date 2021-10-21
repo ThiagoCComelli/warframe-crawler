@@ -1,0 +1,9 @@
+{
+   "name": "Full Capacity",
+   "type": "Pistol",
+   "polarity": "Naramon",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "Hydraulic BarrelLoose Magazine",
+   "baseCapacityCost": "5"
+}

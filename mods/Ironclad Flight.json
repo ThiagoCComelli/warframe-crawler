@@ -1,0 +1,9 @@
+{
+   "name": "Ironclad Flight",
+   "type": "Titania",
+   "polarity": "Ability",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "Aviator",
+   "baseCapacityCost": "3"
+}

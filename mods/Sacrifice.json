@@ -1,0 +1,9 @@
+{
+   "name": "Sacrifice",
+   "type": "Sentinel",
+   "polarity": "Penjaga",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "3",
+   "baseCapacityCost": "6"
+}

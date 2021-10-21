@@ -1,0 +1,9 @@
+{
+   "name": "Cruising Speed",
+   "type": "Railjack",
+   "polarity": "Naramon",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "10",
+   "baseCapacityCost": "4"
+}

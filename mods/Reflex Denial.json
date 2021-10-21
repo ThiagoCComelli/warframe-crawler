@@ -1,0 +1,9 @@
+{
+   "name": "Reflex Denial",
+   "type": "Hound",
+   "polarity": "Penjaga",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "Diversified DenialEvasive Denial",
+   "baseCapacityCost": "5"
+}

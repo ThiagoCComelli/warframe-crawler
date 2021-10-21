@@ -1,0 +1,9 @@
+{
+   "name": "Necramech Hydraulics",
+   "type": "Necramech",
+   "polarity": "Madurai",
+   "rarity": "Uncommon",
+   "tradingTax": "8000",
+   "maxRank": "3",
+   "baseCapacityCost": "6"
+}

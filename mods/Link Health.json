@@ -1,0 +1,9 @@
+{
+   "name": "Link Health",
+   "type": "Companion (except Sentinels)",
+   "polarity": "Vazarin",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "Enhanced Vitality",
+   "baseCapacityCost": "10"
+}

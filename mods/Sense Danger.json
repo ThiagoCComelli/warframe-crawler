@@ -1,0 +1,9 @@
+{
+   "name": "Sense Danger",
+   "type": "Kavat",
+   "polarity": "Penjaga",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "3",
+   "baseCapacityCost": "2"
+}

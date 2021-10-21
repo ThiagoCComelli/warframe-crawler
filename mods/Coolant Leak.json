@@ -1,0 +1,9 @@
+{
+   "name": "Coolant Leak",
+   "type": "Robotic",
+   "polarity": "Penjaga",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "0",
+   "baseCapacityCost": "4"
+}

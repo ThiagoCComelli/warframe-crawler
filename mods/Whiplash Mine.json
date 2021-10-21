@@ -1,0 +1,9 @@
+{
+   "name": "Whiplash Mine",
+   "type": "MOA",
+   "polarity": "Penjaga",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "3",
+   "baseCapacityCost": "2"
+}

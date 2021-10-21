@@ -1,0 +1,9 @@
+{
+   "name": "Energy Generator",
+   "type": "Dethcube",
+   "polarity": "Penjaga",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "5",
+   "baseCapacityCost": "4"
+}

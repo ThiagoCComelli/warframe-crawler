@@ -1,0 +1,9 @@
+{
+   "name": "North Wind",
+   "type": "Melee",
+   "polarity": "Vazarin",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "Flawed North Wind",
+   "baseCapacityCost": "5"
+}

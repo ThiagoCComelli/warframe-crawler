@@ -1,0 +1,9 @@
+{
+   "name": "Legendary Core",
+   "type": "Mod",
+   "polarity": "Core",
+   "rarity": "Legendary",
+   "tradingTax": "1,000,000",
+   "maxRank": "0",
+   "baseCapacityCost": "0"
+}

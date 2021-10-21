@@ -1,0 +1,9 @@
+{
+   "name": "Heated Charge",
+   "type": "Pistol",
+   "polarity": "Naramon",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "Primed Heated ChargeFlawed Heated Charge",
+   "baseCapacityCost": "5"
+}

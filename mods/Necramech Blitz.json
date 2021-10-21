@@ -1,0 +1,9 @@
+{
+   "name": "Necramech Blitz",
+   "type": "Necramech",
+   "polarity": "Madurai",
+   "rarity": "Common",
+   "tradingTax": "8000",
+   "maxRank": "3",
+   "baseCapacityCost": "6"
+}

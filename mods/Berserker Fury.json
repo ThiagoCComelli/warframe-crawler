@@ -1,0 +1,9 @@
+{
+   "name": "Berserker Fury",
+   "type": "Melee",
+   "polarity": "Madurai",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "FuryFlawed FuryPrimed Fury",
+   "baseCapacityCost": "5"
+}

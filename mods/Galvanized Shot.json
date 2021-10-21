@@ -1,0 +1,9 @@
+{
+   "name": "Galvanized Shot",
+   "type": "Pistol",
+   "polarity": "Vazarin",
+   "rarity": "Galvanized",
+   "tradingTax": "8,000",
+   "maxRank": "Sure Shot",
+   "baseCapacityCost": "10"
+}

@@ -1,0 +1,9 @@
+{
+   "name": "Necramech Fury",
+   "type": "Necramech",
+   "polarity": "Vazarin",
+   "rarity": "Common",
+   "tradingTax": "8000",
+   "maxRank": "3",
+   "baseCapacityCost": "4"
+}

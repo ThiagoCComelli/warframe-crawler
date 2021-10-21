@@ -1,0 +1,9 @@
+{
+   "name": "Split Chamber",
+   "type": "Rifle",
+   "polarity": "Madurai",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "Split FlightsGalvanized Chamber",
+   "baseCapacityCost": "5"
+}

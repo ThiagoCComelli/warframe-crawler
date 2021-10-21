@@ -1,0 +1,9 @@
+{
+   "name": "Pack Leader",
+   "type": "Companion (except Sentinels)",
+   "polarity": "Madurai",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "Primed Pack Leader",
+   "baseCapacityCost": "5"
+}

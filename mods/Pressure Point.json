@@ -1,0 +1,9 @@
+{
+   "name": "Pressure Point",
+   "type": "Melee",
+   "polarity": "Madurai",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "Primed Pressure PointSacrificial PressureFlawed Pressure Point",
+   "baseCapacityCost": "5"
+}

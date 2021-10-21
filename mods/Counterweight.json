@@ -1,0 +1,9 @@
+{
+   "name": "Counterweight",
+   "type": "Melee",
+   "polarity": "Madurai",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "Serrated EdgesSharpened Blade",
+   "baseCapacityCost": "3"
+}

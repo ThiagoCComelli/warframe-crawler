@@ -1,0 +1,9 @@
+{
+   "name": "Conclave:Exalted Blade (Stance)",
+   "type": "Exalted Blade",
+   "polarity": "Universal",
+   "rarity": "Common",
+   "tradingTax": "3",
+   "maxRank": "Update 23.0 (2018-06-15)",
+   "baseCapacityCost": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DoomSwordMeleeTree"
+}

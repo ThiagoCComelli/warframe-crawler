@@ -1,0 +1,9 @@
+{
+   "name": "Necramech Slipstream",
+   "type": "Necramech",
+   "polarity": "Naramon",
+   "rarity": "Common",
+   "tradingTax": "8000",
+   "maxRank": "5",
+   "baseCapacityCost": "6"
+}

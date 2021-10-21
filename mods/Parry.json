@@ -1,0 +1,9 @@
+{
+   "name": "Parry",
+   "type": "Melee",
+   "polarity": "Vazarin",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "5",
+   "baseCapacityCost": "2"
+}

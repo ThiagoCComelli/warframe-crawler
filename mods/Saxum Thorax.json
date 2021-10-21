@@ -1,0 +1,9 @@
+{
+   "name": "Saxum Thorax",
+   "type": "Melee",
+   "polarity": "Naramon",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "5",
+   "baseCapacityCost": "4"
+}

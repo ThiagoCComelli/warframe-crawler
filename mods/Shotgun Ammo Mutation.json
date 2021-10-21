@@ -1,0 +1,9 @@
+{
+   "name": "Shotgun Ammo Mutation",
+   "type": "Shotgun",
+   "polarity": "Naramon",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "Primed Shotgun Ammo Mutation",
+   "baseCapacityCost": "5"
+}

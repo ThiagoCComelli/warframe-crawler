@@ -1,0 +1,9 @@
+{
+   "name": "Regen",
+   "type": "Sentinel",
+   "polarity": "Penjaga",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "Primed Regen",
+   "baseCapacityCost": "5"
+}

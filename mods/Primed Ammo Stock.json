@@ -1,0 +1,9 @@
+{
+   "name": "Primed Ammo Stock",
+   "type": "Shotgun",
+   "polarity": "Naramon",
+   "rarity": "Legendary",
+   "tradingTax": "1,000,000",
+   "maxRank": "Ammo StockFlawed Ammo Stock",
+   "baseCapacityCost": "10"
+}

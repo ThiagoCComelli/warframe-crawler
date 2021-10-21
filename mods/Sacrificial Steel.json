@@ -1,0 +1,9 @@
+{
+   "name": "Sacrificial Steel",
+   "type": "Melee",
+   "polarity": "Umbra",
+   "rarity": "Legendary",
+   "tradingTax": "True SteelAmalgam Ripkas True SteelFlawed True Steel",
+   "maxRank": "10",
+   "baseCapacityCost": "6"
+}

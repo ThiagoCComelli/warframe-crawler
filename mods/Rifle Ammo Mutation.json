@@ -1,0 +1,9 @@
+{
+   "name": "Rifle Ammo Mutation",
+   "type": "Assault Rifle",
+   "polarity": "Naramon",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "Primed Rifle Ammo Mutation",
+   "baseCapacityCost": "5"
+}

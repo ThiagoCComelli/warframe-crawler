@@ -1,0 +1,9 @@
+{
+   "name": "Primed Pistol Ammo Mutation",
+   "type": "Pistol",
+   "polarity": "Naramon",
+   "rarity": "Legendary",
+   "tradingTax": "1,000,000",
+   "maxRank": "Pistol Ammo Mutation",
+   "baseCapacityCost": "10"
+}

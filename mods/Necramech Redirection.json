@@ -1,0 +1,9 @@
+{
+   "name": "Necramech Redirection",
+   "type": "Necramech",
+   "polarity": "Vazarin",
+   "rarity": "Common",
+   "tradingTax": "8000",
+   "maxRank": "10",
+   "baseCapacityCost": "4"
+}

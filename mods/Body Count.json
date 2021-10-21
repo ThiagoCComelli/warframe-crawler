@@ -1,0 +1,9 @@
+{
+   "name": "Body Count",
+   "type": "Melee",
+   "polarity": "Naramon",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "Amalgam Furax Body Count",
+   "baseCapacityCost": "5"
+}

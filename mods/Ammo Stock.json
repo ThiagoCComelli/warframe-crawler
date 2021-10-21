@@ -1,0 +1,9 @@
+{
+   "name": "Ammo Stock",
+   "type": "Shotgun",
+   "polarity": "Naramon",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "Flawed Ammo StockPrimed Ammo Stock",
+   "baseCapacityCost": "5"
+}

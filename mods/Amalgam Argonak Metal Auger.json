@@ -1,0 +1,9 @@
+{
+   "name": "Amalgam Argonak Metal Auger",
+   "type": "Argonak",
+   "polarity": "Madurai",
+   "rarity": "Amalgam",
+   "tradingTax": "Metal Auger",
+   "maxRank": "5",
+   "baseCapacityCost": "6"
+}

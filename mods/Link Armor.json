@@ -1,0 +1,9 @@
+{
+   "name": "Link Armor",
+   "type": "Companion (except Sentinels)",
+   "polarity": "Vazarin",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "Metal Fiber",
+   "baseCapacityCost": "10"
+}

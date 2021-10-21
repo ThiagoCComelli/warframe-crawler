@@ -1,0 +1,9 @@
+{
+   "name": "Repo Audit",
+   "type": "Hound",
+   "polarity": "Penjaga",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "Null AuditEquilibrium Audit",
+   "baseCapacityCost": "5"
+}

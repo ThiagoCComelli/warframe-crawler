@@ -1,0 +1,9 @@
+{
+   "name": "Auxiliary Power",
+   "type": "Archwing",
+   "polarity": "Madurai",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "5",
+   "baseCapacityCost": "6"
+}

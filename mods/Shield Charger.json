@@ -1,0 +1,9 @@
+{
+   "name": "Shield Charger",
+   "type": "Robotic",
+   "polarity": "Penjaga",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "5",
+   "baseCapacityCost": "0"
+}

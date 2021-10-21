@@ -1,0 +1,9 @@
+{
+   "name": "Animal Instinct",
+   "type": "Companion",
+   "polarity": "Naramon",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "Primed Animal Instinct",
+   "baseCapacityCost": "5"
+}

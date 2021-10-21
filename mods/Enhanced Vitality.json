@@ -1,0 +1,9 @@
+{
+   "name": "Enhanced Vitality",
+   "type": "Companion",
+   "polarity": "Vazarin",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "Link Health",
+   "baseCapacityCost": "10"
+}

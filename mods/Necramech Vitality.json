@@ -1,0 +1,9 @@
+{
+   "name": "Necramech Vitality",
+   "type": "Necramech",
+   "polarity": "Vazarin",
+   "rarity": "Common",
+   "tradingTax": "8000",
+   "maxRank": "5",
+   "baseCapacityCost": "6"
+}

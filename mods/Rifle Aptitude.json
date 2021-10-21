@@ -1,0 +1,9 @@
+{
+   "name": "Rifle Aptitude",
+   "type": "Rifle",
+   "polarity": "Vazarin",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "Galvanized Aptitude",
+   "baseCapacityCost": "5"
+}

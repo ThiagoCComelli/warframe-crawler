@@ -1,0 +1,9 @@
+{
+   "name": "Focused Defense",
+   "type": "Melee",
+   "polarity": "Vazarin",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "3",
+   "baseCapacityCost": "4"
+}

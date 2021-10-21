@@ -1,0 +1,9 @@
+{
+   "name": "Hydraulic Barrel",
+   "type": "Pistol",
+   "polarity": "Naramon",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "Full CapacityLoose Magazine",
+   "baseCapacityCost": "3"
+}

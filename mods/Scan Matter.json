@@ -1,0 +1,9 @@
+{
+   "name": "Scan Matter",
+   "type": "Oxylus",
+   "polarity": "Penjaga",
+   "rarity": "Common",
+   "tradingTax": "2,000",
+   "maxRank": "3",
+   "baseCapacityCost": "0"
+}

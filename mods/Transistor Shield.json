@@ -1,0 +1,9 @@
+{
+   "name": "Transistor Shield",
+   "type": "Volt",
+   "polarity": "Zenurik",
+   "rarity": "Rare",
+   "tradingTax": "8,000",
+   "maxRank": "Recharge Barrier",
+   "baseCapacityCost": "3"
+}

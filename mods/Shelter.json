@@ -1,0 +1,9 @@
+{
+   "name": "Shelter",
+   "type": "Beast",
+   "polarity": "Vazarin",
+   "rarity": "Uncommon",
+   "tradingTax": "4,000",
+   "maxRank": "10",
+   "baseCapacityCost": "6"
+}

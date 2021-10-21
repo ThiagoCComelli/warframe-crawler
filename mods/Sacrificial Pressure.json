@@ -1,0 +1,9 @@
+{
+   "name": "Sacrificial Pressure",
+   "type": "Melee",
+   "polarity": "Umbra",
+   "rarity": "Legendary",
+   "tradingTax": "Pressure PointPrimed Pressure PointFlawed Pressure Point",
+   "maxRank": "10",
+   "baseCapacityCost": "6"
+}
